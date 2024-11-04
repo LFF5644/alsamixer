@@ -1,0 +1,12 @@
+{
+	"name": "alsamixer",
+	"version": "1.0.0",
+	"description": "Control Volume in Linux with AlsaMixer and NodeJS",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["amixer","alsamixer","change-volume","get-volume"],
+	"author": "LFF5644",
+	"license": "ISC"
+}
